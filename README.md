@@ -19,7 +19,7 @@ My logic behind writing the Javascript was done in following sequence.
 Attached is my screenshot of my password generator page.
 ![Screenshot](password_generator.png)
 
-## Attached is also a personal link to my homework assignment #2.
+## Attached is also a personal link to my homework assignment #3
 
 ## https://jung0808.github.io/homework-3-password-generator/
 
