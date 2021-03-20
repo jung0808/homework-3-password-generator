@@ -21,6 +21,6 @@ Attached is my screenshot of my password generator page.
 
 ## Attached is also a personal link to my homework assignment #2.
 
-## https://jung0808.github.io/homework-2/
+## https://jung0808.github.io/homework-3-password-generator/
 
 ## https://github.com/jung0808/homework-3-password-generator
