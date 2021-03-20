@@ -116,11 +116,20 @@ function generatePassword() {
     console.log(possibleCharacters);
     console.log(specialCharacterArr.length);
   }
+
+  let randomPassword = "";
+  //loop over possible characters;
+  for (let i = 0; i < sizeOfPasswordQuestion; i++) {
+    randomPassword +=
+      possibleCharacters[Math.floor(Math.random() * possibleCharacters.length)];
+    console.log(randomPassword);
+  }
+
+  document.getElementById("password").value = randomPassword;
 }
 
-// let randomPassword = ""
-//  //loop over possible characters;
-//  for (let i = 0; i < sizeOfPasswordQuestion)
+// Add event listener to generate button
+generateBtn.addEventListener("click", generatePassword);
 
 //  return randomPassword;
 // }
